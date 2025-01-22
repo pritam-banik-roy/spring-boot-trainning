@@ -130,5 +130,9 @@ dist
 .pnp.*
 /target/
 
+# Ignore build files
+.classpath
+.project
+
 
 
