@@ -129,3 +129,7 @@ dist
 .yarn/install-state.gz
 .pnp.*
 /target/
+
+# Ignore build files
+.classpath
+.project
