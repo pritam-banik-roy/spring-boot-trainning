@@ -131,6 +131,8 @@ dist
 /target/
 
 
-
+#files 
+.classpath
+.project
 
 >>>>>>> d6c434a6b3acae68a5d842876183826726c0ac76
